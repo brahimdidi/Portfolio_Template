@@ -1,30 +1,51 @@
 # Portfolio_Template
 Portfolio mobile version 
-<img src="your_relative_path_here" width="350" title="hover text">
+<img src="template5Images/20210814_111337.jpg" width="350">
+
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Brahim didi's Portofolio
+
+Welcome to my Portofolio Mobile version.
+
+![mobile](./images/mobile.png)
+
+## Built With
+
+- Major languages : HTML/CSS;
+- IDE : VisualStudio Code;
+- Web Browsers :  Google Chrome;
+
+### Testing
+
+- Microverse Linters
+
+### Prerequisites
+
+- Web browser 
+- Code editor 
+
+### Setup
+
+- Download the repository.
+- Open the index file with your browser.
+### Install
+
+- Not needed
+
+
+### Author
+Brahim didi
 
 
 
+## Show your support
 
-Additional description about the project and its features.
+Give a ⭐️ if you like this project!
 
-Built With:
-Languages:   html, css
+## Acknowledgments
+- [@Figma](https://www.Figma.com) for the template
 
-Frameworks: Visual Studio Code,
 
-Web Browsers: Google Chrome.
 
-Prerequisites:
-Web browser 
-Code editor
-
-Set up:
-Download the repo repository
-Open the index file with your browser.
-Authors
-Brahim didi.
-License:
-MIT license.
-
-Design: Figma.
-
+A
