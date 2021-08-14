@@ -59,11 +59,11 @@ body {
 .h1 {
   font-size: 40px;
   font-weight: 700;
-  color: rgb(115, 252, 125);
+  color: #7D73FC;;
   text-transform: capitalize;
 }
 
-.h3 {
+.h2 {
   font-size: 32px;
   font-weight: 500;
 }
