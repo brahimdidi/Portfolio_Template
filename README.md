@@ -8,8 +8,6 @@ Portfolio mobile version
 
 Welcome to my Portofolio Mobile version.
 
-![mobile](./images/mobile.png)
-
 ## Built With
 
 - Major languages : HTML/CSS;
